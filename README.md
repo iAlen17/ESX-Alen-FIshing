@@ -2,7 +2,8 @@
 
 ### Preview : https://www.youtube.com/watch?v=PfkbaleHIms
 
-![](https://github.com/iAlen17/Alen-Fishing/images-preview/preview.png)
+![](images-preview/preview.png)
+
 
 
 ### Installation
@@ -15,19 +16,20 @@
 ### Dependency
 - [Keymaster Minigame](https://github.com/dsheedes/cd_keymaster)
 
-### QBCore-Version :  [Alen-Fishing](https://github.com/iAlen17/Alen-Fishing)
+### QBCore-Version :  [Alen-Fishing](https://github.com/iAlen17/ESX-Alen-Fishing)
 
 ### Resmon Useage :
 - Idle/While Catching Fish
 
 
-![](github.com/iAlen17/Alen-Fishing/images-preview/fishing-resmon.png)
+![](images-preview/fishing-resmon.png)
 - While near text
 
 
-![](github.com/iAlen17/Alen-Fishing/images-preview/text-resmon.png)
+![](images-preview/text-resmon.png)
 
 ### Discord Logs : 
 
 
-![](github.com/iAlen17/Alen-Fishing/images-preview/discord-logs.png)
+![](images-preview/discord-logs.png)
+
