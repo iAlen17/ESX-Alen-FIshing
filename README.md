@@ -13,10 +13,14 @@
 - Extract and ensure the resources
 - Add an item fishingrod 
 
+### QBCore-Version :  [Alen-Fishing](https://github.com/iAlen17/Alen-Fishing)
+
+
+
 ### Dependency
 - [Keymaster Minigame](https://github.com/dsheedes/cd_keymaster)
 
-### QBCore-Version :  [Alen-Fishing](https://github.com/iAlen17/ESX-Alen-Fishing)
+### QBCore-Version :  [Alen-Fishing](https://github.com/iAlen17/Alen-Fishing)
 
 ### Resmon Useage :
 - Idle/While Catching Fish
