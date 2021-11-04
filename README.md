@@ -20,7 +20,7 @@
 ### Dependency
 - [Keymaster Minigame](https://github.com/dsheedes/cd_keymaster)
 
-### QBCore-Version :  [Alen-Fishing](https://github.com/iAlen17/Alen-Fishing)
+
 
 ### Resmon Useage :
 - Idle/While Catching Fish
