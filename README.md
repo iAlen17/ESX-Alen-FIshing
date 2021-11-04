@@ -2,7 +2,7 @@
 
 ### Preview : https://www.youtube.com/watch?v=PfkbaleHIms
 
-![](github.com/iAlen17/Alen-Fishing/images-preview/preview.png)
+![](https://github.com/iAlen17/Alen-Fishing/images-preview/preview.png)
 
 
 ### Installation
