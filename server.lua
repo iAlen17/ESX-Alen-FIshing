@@ -3,7 +3,7 @@
 
 
 discord = {
-    ['webhook'] = 'https://discord.com/api/webhooks/899994045923885106/T2XHJotIH9BXNfvLZHzn0mcTWMAPuHjSh9Sxt3Y9VtQ8a2_Ox5IPBki9j0O9MSY8MGia',
+    ['webhook'] = 'webhook',
     ['name'] = 'Fishing Logs',
     ['image'] = 'https://cdn.discordapp.com/attachments/774536621802389544/899986988386623498/logo.png'
 }
