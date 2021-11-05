@@ -12,7 +12,7 @@ CreateThread(function()
 		if coords <= 5.0 then
 			sleep = 1
 			if coords <= 2.0 then
-			   DrawText3D(Config['SellFish'].x,Config['SellFish'].y,Config['SellFish'].z, "~b~[E]~w~To Sell Printed Notes")
+			   DrawText3D(Config['SellFish'].x,Config['SellFish'].y,Config['SellFish'].z, "~o~[E]~w~To Sell Fish")
 				if IsControlJustPressed(0, 38) then
 					TriggerServerEvent('Alen-Fishing:Sell')
 					PlaySoundFrontend(-1, "Mission_Pass_Notify", "DLC_HEISTS_GENERAL_FRONTEND_SOUNDS", 0)
